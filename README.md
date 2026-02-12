@@ -1,20 +1,32 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
-<h3 align="center">A SRE from Mexico</h3>
+<h3 align="center">Site Reliability Engineer from Mexico</h3>
 
-# 🚀 Site Reliability Engineer | KCD Organizer | AWS UG Leader  
-- 🔭 I’m currently working on **Finastra**
-- ✍️ I’m currently learning **how to live**
+---
 
-- ## 🌱 Community & Leadership  
-- 🎤 Organizer of **Kubernetes Community Days México** [KCD Guadalajara](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2026/cohost-kcd-guadalajara/)
-- 🌍 **AWS User Group Leader** in México [AWS UG Jalisco](http://meetup.com/amazon-web-services-jalisco/)
-- 📝 I regularly write articles on [https://www.linkedin.com/in/eduardo-salazar-carrillo-1984-eric-blair/](https://www.linkedin.com/in/eduardo-salazar-carrillo-1984-eric-blair/)
-- 💬 Ask me about **anything that helps me reframe my thoughts**
+## 🚀 Site Reliability Engineer | KCD Organizer | AWS UG Leader  
 
-- ## About me
-- ⚡ Fun fact **I broke my right arm doing weighted pull-ups with 60kg, that made me ambidextrous.**
+- 🔭 Currently working at **Finastra**  
+- ✍️ Learning **how to live**  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🌱 Community & Leadership  
+
+- 🎤 Organizer of **Kubernetes Community Days México**  
+  [KCD Guadalajara 2026](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara/)  
+- 🌍 **AWS User Group Leader** in México  
+  [AWS UG Jalisco](http://meetup.com/amazon-web-services-jalisco/)  
+- 📝 I regularly share articles on [LinkedIn](https://www.linkedin.com/in/eduardo-salazar-carrillo-1984-eric-blair/)  
+- 💬 Ask me about **anything that helps reframe thoughts**  
+
+---
+
+## ⚡ About Me  
+
+- Fun fact: **I broke my right arm doing weighted pull-ups with 60kg, which made me ambidextrous.**  
+
+---
+
+## 🤝 Connect with Me  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eduardo-salazar-carrillo-1984-eric-blair/)  
-<p align="left">
-</p>
